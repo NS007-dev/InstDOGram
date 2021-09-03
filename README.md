@@ -1,5 +1,7 @@
 # InstDOGram 📷🐶!
 
+### Icon by favicon
+
 ### Instagram barking with dog photos!
 
 > ### Star, so you know where to find cute dog pics! 🌟🤩
