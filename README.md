@@ -11,26 +11,6 @@
 - <ins>How I deployed to Github Pages </ins>
     - I used **[this](https://medium.com/mobile-web-dev/how-to-build-and-deploy-a-react-app-to-github-pages-in-less-than-5-minutes-d6c4ffd30f14)** Medium Article 
 
-### Preview Premiere 🎬📽:
-
-#### 1. Most importantly... The Dog Feeds!!!
-
-![dog feeds](./Preview/doggyfeeds.gif)
-
-#### 2. Hover over each post to get new feeds!
-
-![hover feeds](./Preview/hoverover.gif)
-
-#### 3. You can like 👍💙 each post:
-
-![like posts](./Preview/likeposts.gif)
-
-#### 4. Your likes are always saved to local storage!
-
-![save likes](./Preview/savelikes.gif)
-
-<h2 align="center"> 🐶So Cool Right?🐶
-
 ### How I can improve:
 
 - [ ] I need to make the likes universal.
