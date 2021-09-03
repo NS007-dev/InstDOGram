@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/InstDOGram/static/css/main.85ce7fe3.chunk.css",
+    "main.js": "/InstDOGram/static/js/main.7914a6f4.chunk.js",
+    "main.js.map": "/InstDOGram/static/js/main.7914a6f4.chunk.js.map",
+    "runtime-main.js": "/InstDOGram/static/js/runtime-main.aa92e608.js",
+    "runtime-main.js.map": "/InstDOGram/static/js/runtime-main.aa92e608.js.map",
+    "static/js/2.8069af16.chunk.js": "/InstDOGram/static/js/2.8069af16.chunk.js",
+    "static/js/2.8069af16.chunk.js.map": "/InstDOGram/static/js/2.8069af16.chunk.js.map",
+    "static/js/3.c1c36b08.chunk.js": "/InstDOGram/static/js/3.c1c36b08.chunk.js",
+    "static/js/3.c1c36b08.chunk.js.map": "/InstDOGram/static/js/3.c1c36b08.chunk.js.map",
+    "index.html": "/InstDOGram/index.html",
+    "static/css/main.85ce7fe3.chunk.css.map": "/InstDOGram/static/css/main.85ce7fe3.chunk.css.map",
+    "static/js/2.8069af16.chunk.js.LICENSE.txt": "/InstDOGram/static/js/2.8069af16.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/InstDOGram/static/media/staffiesleep.d0018d05.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa92e608.js",
+    "static/js/2.8069af16.chunk.js",
+    "static/css/main.85ce7fe3.chunk.css",
+    "static/js/main.7914a6f4.chunk.js"
+  ]
+}
