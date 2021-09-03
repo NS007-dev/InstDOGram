@@ -1,4 +1,4 @@
-# InstDOGram 📷🐶
+# InstDOGram 📷🐶!
 
 ### Instagram barking with dog photos!
 
@@ -15,19 +15,19 @@
 
 #### 1. Most importantly... The Dog Feeds!!!
 
-![dog feeds](./Preview/doggyfeeds.gif)
+![dogfeeds](./Preview/dogfeeds.gif)
 
 #### 2. Hover over each post to get new feeds!
 
-![hover feeds](./Preview/hoverover.gif)
+![hover feeds](./Preview/hoveroverit.gif)
 
 #### 3. You can like 👍💙 each post:
 
-![like posts](./Preview/likeposts.gif)
+![like posts](./Preview/likepost.gif)
 
 #### 4. Your likes are always saved to local storage!
 
-![save likes](./Preview/savelikes.gif)
+![save likes](./Preview/savelike.gif)
 
 <h2 align="center"> 🐶So Cool Right?🐶
 
