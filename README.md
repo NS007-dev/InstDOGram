@@ -2,6 +2,8 @@
 
 ### Icon by favicon
 
+<img src="https://socialify.git.ci/CodingSpecies/InstDOGram/image?description=1&font=KoHo&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="InstDOGram" width="1000" height="280" />
+
 ### Instagram barking with dog photos!
 
 > ### Star, so you know where to find cute dog pics! 🌟🤩
