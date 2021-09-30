@@ -41,4 +41,5 @@
 - [ ] Add a light and dark mode.
 - [ ] Add more posts.
 - [ ] Make it possible to let others upload.
+- [ ] To share photos, by [Abhiram Gullapalli](https://github.com/gullapalli9482)
 - [ ] All your suggestions, which you share in discussions!!
