@@ -17,6 +17,8 @@
 
 ### Preview Premiere 🎬📽:
 
+> Get the popcorn ready! 🍿🥤
+
 #### 1. Most importantly... The Dog Feeds!!!
 
 ![dogfeeds](./Preview/dogfeeds.gif)
